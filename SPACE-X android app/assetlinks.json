@@ -1,6 +1,0 @@
-[{
-        "relation": ["delegate_permission/common.handle_all_urls"],
-        "target" : { "namespace": "android_app", "package_name": "in.co.space_x.twa",
-                     "sha256_cert_fingerprints": ["00:0C:21:6E:11:8F:22:39:D5:2F:95:25:65:E9:06:29:57:A3:D5:6C:95:39:BC:C4:8B:6A:EE:62:AA:FA:0E:B1"] }
-      }
-]
